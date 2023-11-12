@@ -2,7 +2,9 @@ public class Demo{
 
 public void doprocess(){
 
-// write code here
+int a;
+int b;
+
 
 }
 
