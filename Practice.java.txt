@@ -1,0 +1,16 @@
+public Class Practice{
+
+
+
+
+public void demomethod(){
+
+
+ int a;
+ int b; 
+
+
+}
+
+
+}
